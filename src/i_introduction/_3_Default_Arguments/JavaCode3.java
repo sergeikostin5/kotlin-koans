@@ -20,4 +20,8 @@ public class JavaCode3 extends JavaCode {
     public String foo(String name) {
         return foo(name, defaultNumber);
     }
+
+    public static void main(String[] args) {
+        System.out.println("hey");
+    }
 }
